@@ -1,3 +1,5 @@
 # Passenger-count
 
-This is a basic project from Scrimba platform.
+This is a basic passenger count project from Scrimba platform.
+
+https://groverush.github.io/Passenger-count/

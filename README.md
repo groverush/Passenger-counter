@@ -1,4 +1,4 @@
-# Passenger-count
+# Passenger-counter
 
 This is a basic passenger count project from Scrimba platform.
 

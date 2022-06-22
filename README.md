@@ -2,4 +2,4 @@
 
 This is a basic passenger count project from Scrimba platform.
 
-https://groverush.github.io/Passenger-count/
+https://groverush.github.io/Passenger-counter/
